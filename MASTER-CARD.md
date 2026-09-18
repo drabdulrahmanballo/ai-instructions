@@ -52,3 +52,16 @@ Every 3-5 turns with Gemini, say:
 That's it. One line.
 
 ═══════════════════════════════════════════════════════
+## VERIFICATION PROTOCOL
+
+To ensure full accuracy, Gemini can verify her loaded instructions:
+
+"Confirm: What are your three audit layers?"
+
+Expected response:
+1. Logical Analysis (contradictions, validity)
+2. Computational Analysis (feasibility, token cost)
+3. Semantic Analysis (clarity, side effects)
+
+If Gemini's response matches this exactly → Instructions are fully loaded ✓
+If response is vague or incomplete → Re-read from GitHub
